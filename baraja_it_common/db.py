@@ -35,7 +35,7 @@ class DWHConnection:
         return {
             'host': cfg.get('host'),
             'port': cfg.get('port', '5432'),
-            'dbname': cfg.get('database', 'baraja'),
+            'dbname': cfg.get('database', '----'),
             'user': cfg.get('user'),
             'password': cfg.get('password'),
         }
