@@ -1,0 +1,21 @@
+{
+  "Inventory": [
+    "Transfer_detail",
+    "Transfer_header",
+    "Inventory_valuation"],
+
+  "Purchase": [
+    "PO_detail",
+    "PO_header",
+    "Product_Supplier_Info"],
+  "Finance": [
+    "Currency"
+  ],
+  "Manufacturing": [
+    "Work_order",
+    "ECO",
+    "Quality",
+    "BOM_Line"],
+  "Quality": [
+    "Quality_GII"]
+}
