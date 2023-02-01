@@ -1,0 +1,12 @@
+odoo-13-read-replica:
+  host: odoosh-bar-aws.csqvxaloczsm.ap-southeast-2.rds.amazonaws.com
+  port: 5432
+  database: baraja
+  user: baraja
+  password: SDsH3h4gpaXrJs!
+
+it-technology:
+  base_url: https://baraja.sharepoint.com
+  site_relative_url: /sites/it
+  user_name: report.publisher@baraja.com
+  user_password: Inn0vat!0n
